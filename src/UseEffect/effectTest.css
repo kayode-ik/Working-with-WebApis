@@ -1,0 +1,14 @@
+button {
+  width: 150px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 60px 60px;
+  background: green;
+  color: white;
+  border: none;
+}
+h2 {
+  margin: 60px;
+}
